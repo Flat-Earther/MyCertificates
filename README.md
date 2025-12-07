@@ -1,7 +1,7 @@
 # 🏆 Certificates of Achievement
 
 Welcome to my certifiactes section. Here I will share all of my Certificates that I have got
-from websites, universities, courses, and other flatporms. 
+from websites, universities, courses, and other platforms. 
 These certificates are a testament to my dedication, expertise, and continuous learning in various programming languages, frameworks, and technologies. 
 
 
