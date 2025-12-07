@@ -11,7 +11,7 @@ These certificates are a testament to my dedication, expertise, and continuous l
 
 
 
-# Certyficates 🎊 🎖 📒
+# Certificates 🎊 🎖 📒
 
 ## ***Courses***   
    1. 🌠 [Scrimba](https://scrimba.com/)
