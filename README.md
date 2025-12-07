@@ -22,9 +22,11 @@ These certificates are a testament to my dedication, expertise, and continuous l
        + ***JavaScript***
        + ***React***
        + ***Python***
-       + ***Svelte***
+       + ***LangChain***
 
 ### ***1.Scrimba Certificates of Achievement***
+
+![LangChain](./files/LangChain.png)
 
 ![Frontend-developer-career-path-scrimba](./images/frontend-career-path-scrimba.png)
 
