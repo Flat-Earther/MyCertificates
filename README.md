@@ -30,4 +30,6 @@ These certificates are a testament to my dedication, expertise, and continuous l
 
 ![JavaScipt](./images/JavaScript.png)
 
+![Node.js](./files/Node.js.png)
+
 ![UI design](./images/UI-design.png)
