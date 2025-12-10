@@ -23,6 +23,7 @@ These certificates are a testament to my dedication, expertise, and continuous l
        + ***React***
        + ***Python***
        + ***LangChain***
+       + ***AI***
 
 ### ***1.Scrimba Certificates of Achievement***
 
