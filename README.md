@@ -28,10 +28,6 @@ These certificates are a testament to my dedication, expertise, and continuous l
 
 ![LangChain](./files/LangChain.png)
 
-![Frontend-developer-career-path-scrimba](./images/frontend-career-path-scrimba.png)
-
-![JavaScipt](./images/JavaScript.png)
+![AI Engineering](./files/AIengineering.png)
 
 ![Node.js](./files/Node.js.png)
-
-![UI design](./images/UI-design.png)
